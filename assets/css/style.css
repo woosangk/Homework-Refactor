@@ -82,6 +82,8 @@ p {
     background-color: #2589bd;
 }
 
+/* Duplicated property was combined into the one */
+
 .benefit-1 {
     margin-bottom: 32px;
     color: #ffffff;
