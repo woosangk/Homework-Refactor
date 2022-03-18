@@ -46,6 +46,8 @@ p {
     font-size: 16px;
 }
 
+/* Changed a name of the element to background */
+
 .background {
     height: 800px;
     width: 100%;
